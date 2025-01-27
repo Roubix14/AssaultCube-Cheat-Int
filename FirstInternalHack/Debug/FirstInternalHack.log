@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Tom\Downloads\First-Internal-Hack-Tutorial1-master\First-Internal-Hack-Tutorial1-master\FirstInternalHack\main.cpp(103,35): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/main.cpp')
+  
+  FirstInternalHack.vcxproj -> C:\Users\Tom\Downloads\First-Internal-Hack-Tutorial1-master\First-Internal-Hack-Tutorial1-master\Debug\FirstInternalHack.dll
